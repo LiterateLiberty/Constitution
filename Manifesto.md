@@ -19,9 +19,9 @@ Any member is free to suggest a book or a topic as well as prepare notes and pre
 
 ## Meeting Format & Schedule
 
-The standard meeting format is a member being chosen to prepare a presentation of notes on the book chapters covered in the meeting and presenting them in Discord VC. This may not be necessary for every chapter or subject matter, since sometimes chapters from previous books overlap and we may choose to either use older notes from a previous book or, if it is an easy, digestible chapter with very obvious premises and conclusion, we may choose to forego notes altogether.
+The standard meeting format has a member chosen to prepare a presentation of notes on the book chapters covered in the meeting and presenting them in Discord VC. This may not be necessary for every chapter or subject matter, since sometimes topics from previous books overlap and we may choose to either use older notes from a previous book or, if it is an easy, digestible chapter with very obvious premises and conclusions, we may choose to forego notes altogether.
 
-If a chapter cannot be covered, whether it is due to delays or because of other unforeseen reasons, a "filler" meeting may be held to make up the gap. These could include either holding a watch-party or we might cover an essay on some particular topic by notable authors.
+If a chapter cannot be covered, whether it is due to delays or because of other unforeseen circumstances, a "filler" meeting may be held to make up the gap. These could include either holding a watch-party or we might cover an essay on some particular topic by notable authors.
 
 The current schedule is weekly, on either Saturday or Sunday EST, and the timing is, preferably, announced a week in advance.
 
