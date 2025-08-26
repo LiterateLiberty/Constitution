@@ -15,6 +15,7 @@ While closely tied to Mentiswave and his community this book club is not officia
 
 ## How you can Contribute
 
+Any member is free to suggest a book or a topic as well as prepare notes and presentations themselves, if they so wish. While the Book Club admins will be the ones organising and driving activity this is still very much a collaborative project where anyone is welcome to contribute and participate.
 
 ## Meeting Format & Schedule
 
