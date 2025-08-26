@@ -11,7 +11,7 @@ This book club emerged in YouTuber Mentiswave's Discord server as a way for libe
 
 ## Who we are **NOT**
 
-While closely tied to Mentiswave and his community this book club is not officially affiliated with or endorsed by Mentiswave himself, it is a wholly independent group. Views and ideas expressed by its members and administrators is are entirely their own and should not be attributed to Mentis.
+While closely tied to Mentiswave and his community this book club is not officially affiliated with nor endorsed by Mentiswave himself, it is a wholly independent group. Views and ideas expressed by its members and administrators are entirely their own and should not be attributed to Mentis.
 
 ## How you can Contribute
 
