@@ -3,6 +3,7 @@
 
 ## Intent & Purpose
 
+While many profess to be libertarian, or libertarian adjacent in their politics, far fewer can honestly claim that they have read much or any libertarian theory or that they understand the core aspects of its theory. Our aim is to address this woeful inadequacy by maintaining a forum for sharing of knowledge and mutual enrichment.
 
 ## Who we are
 
