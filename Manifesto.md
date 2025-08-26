@@ -7,9 +7,11 @@ While many profess to be libertarian, or libertarian adjacent in their politics,
 
 ## Who we are
 
+This book club emerged in YouTuber Mentiswave's Discord server as a way for libertarian and libertarian-curious members of the server to further explore libertarian ideas and theory and has undergone several iterations since then. 
 
 ## Who we are **NOT**
 
+While closely tied to Mentiswave and his community this book club is not officially affiliated with or endorsed by Mentiswave himself, it is a wholly independent group. Views and ideas expressed by its members and administrators is are entirely their own and should not be attributed to Mentis.
 
 ## How you can Contribute
 
