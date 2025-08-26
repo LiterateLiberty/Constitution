@@ -31,4 +31,6 @@ If there is a break or a delay in the presentation of the subject matter a watch
 
 ## Rules
 
-
+1. **"Don't be a dickhead"**: Pretty simple. Remain civil towards other members and do not shit up the conversation with meaningless nonsense. You will get a warning, but once warned it will be up to the admin's full discretion to remove you.
+2. **Follow Discord's TOS**: We do not like them any more than you do. Deal with it.
+3. **Follow the host server's rules**: It is the least you can do.
