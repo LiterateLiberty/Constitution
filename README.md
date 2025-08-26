@@ -1,2 +1,5 @@
-# Constitution
-Constitution and Manifesto for the book club
+# Start Here
+
+## Index
+
+* [Manifesto](Manifesto.md)
